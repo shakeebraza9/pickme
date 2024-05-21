@@ -1,0 +1,98 @@
+.standard {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.whatsapp_contact{
+	width: 25%;
+}
+
+.mail{
+	width: 25%;
+}
+
+.top_links{
+	width: 46%;
+}
+
+.all1_left{
+	margin-top: 12%
+}
+
+.all1_right{
+	margin-top: 12%
+}
+
+.col1_left, .col3_left{
+	width: 50%;
+	display: inline-block;
+}
+
+.col2_left{
+	width: 48%;
+    display: inline-block;
+}
+
+.col2_left:after{
+	width: 100%;
+}
+
+.col2_right{
+	width: 49%;
+	display: inline-block;
+	margin-left: 0px;
+	margin-right: 13px;
+}
+
+.col2_right:after{
+	width: 100%;
+}
+
+.col1_left img,.col2_left img,.col3_left img{
+	width: 100%;
+	display: inline-block;
+}
+
+.col4_left{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+iframe {
+    width: 950px;
+    height: 300px;
+    filter: drop-shadow(2px 2px 2px #000);
+}
+
+.col4_right {
+	width: 100%;
+	margin-left: 0px;
+}
+.col4_inner {
+    width: 32%;
+}
+
+.footer_links ul li {
+	padding: 10px 10px 10px 10px;
+}
+
+.col6_inner_1 .mail {
+	width: 60%;
+}
+
+.col6_inner_1 .whatsapp_contact {
+	width: 67%;
+}
+
+.col6_inner_1 input {
+    width: 200px;
+}
+
+.imedia {
+	margin-left:6%;
+}
+
+.col9_right{
+	width: 70%;
+}

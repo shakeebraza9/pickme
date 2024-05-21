@@ -1,0 +1,6 @@
+[20-Oct-2015 22:28:26 Europe/Stockholm] PHP Notice:  Undefined offset: 1 in /home/sharkspcom/public_html/src/pdf/measurementPDF.php on line 44
+[20-Oct-2015 22:28:26 Europe/Stockholm] PHP Notice:  Undefined offset: 2 in /home/sharkspcom/public_html/src/pdf/measurementPDF.php on line 45
+[20-Oct-2015 22:28:26 Europe/Stockholm] PHP Notice:  Undefined offset: 3 in /home/sharkspcom/public_html/src/pdf/measurementPDF.php on line 46
+[10-May-2019 00:43:19 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sharkspcom/public_html/src/pdf/_class/locale.class.php on line 68
+[10-May-2019 00:46:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sharkspcom/public_html/src/pdf/_class/locale.class.php on line 68
+[10-May-2019 00:49:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sharkspcom/public_html/src/pdf/_class/locale.class.php on line 68

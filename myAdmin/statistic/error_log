@@ -1,0 +1,12 @@
+[05-Jul-2019 10:39:42 Europe/Stockholm] PHP Notice:  Undefined offset: 4 in /home/sharkspcom/public_html/new/myAdmin/statistic/classes/statistic.class.php on line 1065
+[05-Jul-2019 10:45:04 Europe/Stockholm] PHP Parse error:  syntax error, unexpected '$result_array' (T_VARIABLE), expecting '(' in /home/sharkspcom/public_html/new/myAdmin/statistic/classes/statistic.class.php on line 2017
+[05-Jul-2019 10:45:09 Europe/Stockholm] PHP Notice:  Undefined offset: 4 in /home/sharkspcom/public_html/new/myAdmin/statistic/classes/statistic.class.php on line 1067
+[05-Jul-2019 10:45:09 Europe/Stockholm] PHP Notice:  Undefined offset: 4 in /home/sharkspcom/public_html/new/myAdmin/statistic/classes/statistic.class.php on line 1067
+[05-Jul-2019 11:21:02 Europe/Stockholm] PHP Notice:  Undefined index: Statistidsdcs Report in /home/sharkspcom/public_html/new/myAdmin/statistic/statistic.php on line 43
+[05-Jul-2019 11:21:25 Europe/Stockholm] PHP Notice:  Undefined index: Generate Statistic in /home/sharkspcom/public_html/new/myAdmin/statistic/index.php on line 32
+[05-Jul-2019 11:21:44 Europe/Stockholm] PHP Notice:  Undefined index: Generate Statistic in /home/sharkspcom/public_html/new/myAdmin/statistic/index.php on line 32
+[02-Aug-2021 05:53:25 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:20:35 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:22:04 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:24:02 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:24:10 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0

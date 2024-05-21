@@ -1,0 +1,4 @@
+[15-Jun-2019 12:36:31 Europe/Stockholm] PHP Fatal error:  Cannot redeclare common_function::setFormToken() in /home/sharkspcom/public_html/new/_models/traits/common_functions.php on line 887
+[02-Aug-2021 07:04:46 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 10:29:05 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 10:29:10 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0

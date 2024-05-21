@@ -1,0 +1,1 @@
+0 0 * * * /usr/bin/curl -A cron https://sharkspeed.se/cron/cronTasks.php?time=daily >/dev/null 2>&1

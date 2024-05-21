@@ -1,0 +1,13 @@
+[07-Jan-2016 12:43:15 Europe/Stockholm] PHP Notice:  Undefined index: userId in /home/sharkspcom/public_html/myAdmin/webUsers/classes/webUsers.class.php on line 464
+[20-May-2019 12:14:39 Europe/Stockholm] PHP Fatal error:  Cannot declare class menu, because the name is already in use in /home/sharkspcom/public_html/_models/functions/menu.php on line 0
+[03-Jun-2019 12:54:07 Europe/Stockholm] PHP Fatal error:  Cannot declare class menu, because the name is already in use in /home/sharkspcom/public_html/_models/functions/menu.php on line 0
+[27-Mar-2020 18:50:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sodium.dll' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[03-Apr-2020 14:50:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sodium.dll' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/php_sodium.dll.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[26-Jul-2021 10:33:33 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[26-Jul-2021 10:33:45 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[26-Jul-2021 10:33:50 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 05:52:32 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 05:52:50 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 05:53:02 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 05:53:10 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 05:53:13 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0

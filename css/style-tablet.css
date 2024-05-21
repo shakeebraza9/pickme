@@ -1,0 +1,318 @@
+.standard {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+/*menu styling*/
+
+.menu_icn {
+    display: block;
+    padding-left: 10px;
+}
+
+#page {
+    display: block;
+    position: relative;
+    top: 0px;
+    z-index: 99;
+    width: 100%;
+}
+
+.main_mmenu {
+    display: block;
+}
+
+.whatsapp_contact {
+    width: 32%;
+}
+
+.header_top .mail{
+    display: none;
+}
+
+.top_links{
+    width: 60%;
+}
+
+.cart {
+    width: 25%;
+}
+
+.cart img {
+    margin-right: 0px;
+}
+
+.cart_txt{
+    float: right;
+}
+
+.search {
+    max-width: 250px;
+}
+
+.banner_txt h1 {
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.banner_txt h5 {
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.all1_left{
+    display: none;
+}
+
+.all1_right{
+    display: none;
+}
+
+.col1_left {
+    width: 50%
+}
+
+.col1_left img {
+    width: 100%
+}
+
+.col1_right{
+    width: 42%;
+}
+
+.col1_right_txt h1 {
+    color: #000;
+    font-size: 50px;
+}
+
+.col3_left {
+    width: 50%
+}
+
+.col3_left img {
+    width: 100%
+}
+
+.col3_right{
+    width: 42%;
+}
+
+.col3_right_txt h1 {
+    color: #000;
+    font-size: 50px;
+}
+
+.col2_left {
+    width: 50%
+}
+
+.col2_left img {
+    width: 100%
+}
+
+.col2_right{
+    width: 42%;
+    margin-right: 12px;
+}
+
+.col2_right::after {
+    width: 100%
+}
+
+.col2_right_txt h1 {
+    color: #000;
+    font-size: 50px;
+}
+
+.col2_right_txt h6 {
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.col2_right_txt p {
+    margin-bottom: 0px;
+}
+
+.col4_left{
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+iframe{
+    width: 750px;
+    height: 300px;
+    filter: drop-shadow(2px 2px 2px #000);
+}
+
+.col4_right{
+    width: 100%;
+    margin: 0px;
+}
+
+/*--------------------about styling---------------------------*/
+.about_txt{
+    font-size:15px;
+    margin-top: 0px;
+}
+
+.about_txt h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+/*--------------------about styling close---------------------------*/
+
+/*--------------------contact styling---------------------------*/
+
+.form_1 {
+    width: 100%;
+    text-align: center;
+}
+
+.form_1 h3 {
+    text-align: center;
+}
+
+.form2 {
+    width: 100%;
+    text-align: center;
+}
+
+.form2 h3 {
+    text-align: center;
+}
+
+/*--------------------contact styling close---------------------------*/
+
+/*--------------------thankyou styling---------------------------*/
+.shopping_left {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.shopping_left .cart_button {
+    width: 100%;
+}
+.shopping_right {
+    width: 100%;
+    text-align: center;
+}
+
+.cart_button a {
+    width: 100%;
+    font-size: 15px;
+}
+
+.col3_box_txt h3 { 
+    font-size: 20px;
+}
+
+.col3_box_txt h5 { 
+    font-size: 15px;
+}
+
+.product_detail {
+    border: none;
+}
+
+.add_product_to_cart {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0px;
+}
+.add_to_cart_main_pic_slide {
+    display: none;
+}
+
+.add_to_cart_main_pic_responsive{
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.cart_btn {
+    width: 220px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.cart_btn2 {
+    margin-bottom: -12px;
+}
+
+.product_detail .ui-widget-header a {
+    padding: 11px 11px !important;
+    font-size: 11px !important;
+}
+
+.product_detail .ui-widget.ui-widget-content {
+    border: none;
+    text-align: center;
+}
+
+
+
+
+.col9 {
+    border: none;
+}
+
+.col9_left {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.col9_right {
+    width: 100%;
+    text-align: center;
+}
+
+.col9_main .col3_box {
+    width: 43%;
+    margin:0px 8px;
+    margin-bottom: 10px;
+}
+
+/*--------------------thankyou styling close---------------------------*/
+
+
+.footer_links ul li {
+    padding: 10px;
+}
+
+.col6_inner_1 .mail {
+    width: 80%;
+}
+
+.col6_inner_1 .whatsapp_contact {
+    width: 90%;
+}
+
+.col6_inner_2 {
+    display: none;
+}
+
+.col6_inner_1 {
+    width: 49%;
+}
+
+.col6_inner_1 input {
+    width: 176.3px;
+}
+
+.footer_bottom {
+    padding: 25px 0px 25px 0px;
+}
+
+.imedia{
+    margin-left: 1%;
+    border-left: 1px solid #000;
+}
+
+.imedia .design_develop {
+    padding-left: 5px;
+}

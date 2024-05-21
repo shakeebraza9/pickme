@@ -1,0 +1,460 @@
+.standard {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+/*menu styling*/
+
+.menu_icn {
+    display: block;
+    padding-left: 0px;
+}
+
+#page {
+    display: block;
+    position: relative;
+    top: 0px;
+    z-index: 99;
+    width: 100%;
+}
+
+.main_mmenu {
+    display: inline-block;
+    width: 15%;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.header_top{
+    display: none;
+}
+
+.header_bottom{
+    display: none;
+}
+
+.header_bottom_1 {
+    padding: 0px;
+    margin: 10px auto;
+    display: block;
+    height: 50px;
+}
+
+.header_bottom_ {
+    display: none;
+}
+.social_icon{
+    display: none;
+}
+
+.logo {
+    margin-bottom: 0px;
+    width: 100%;
+    max-width: 250px;
+    vertical-align: middle;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.cart {
+    width: 15%;
+    border: none;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.cart span{
+    position: absolute;
+    display: inline-flex;
+}
+
+.cart img {
+    margin-bottom:-20px;
+    max-width: 25px;
+    margin-right: 0px;
+}
+
+.cart_txt {
+    display: none;
+}
+
+
+.cart .cart_txt span{
+    display: none;
+}
+
+.cart_txt_ {
+    margin:0px;
+}
+
+.cart_txt_2{
+    display: none;
+}
+
+.cart_txt span{
+    display: none;
+}
+
+.cart_txt h5{
+    display: none;
+}
+
+.menu_side {
+    display: none;
+}
+.menu_icn img {
+    width: 20px;
+    height:20px;
+    margin-top: 10px;
+}
+
+.nav_ {
+    display: none;
+}
+
+.nav_ ul li {
+    padding: 0px 8px 0px 8px;
+}
+
+.search{
+    display: none;
+}
+
+.social_icon {
+    display: none;
+}
+
+.menu_side {
+    display: none;
+}
+.menu_side span{
+    height: 3px;
+}
+
+.nav_{
+    display: none;
+}
+
+.search {
+    max-width: 200px;
+    margin-bottom: 10px;
+}
+
+.all1_left{
+    display: none;
+}
+
+.all1_right{
+    display: none;
+}
+
+.banner_txt h6 {
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+.banner_txt h1 {
+    font-size: 25px;  
+    margin-bottom: 0px; 
+}
+
+.banner_txt h5 {
+    font-size: 15px; 
+}
+
+.col1_left,.col2_left,.col3_left {
+    width: 90%;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.col1_left img,.col2_left img,.col3_left img {
+    width: 100%;
+}
+
+.col1_right,.col3_right {
+    width: 100%;
+    margin: 40px auto 0px auto;
+}
+.col2_right{
+    width: 100%;
+    margin: 0px auto 20px auto;
+}
+
+.col4_left{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+iframe{
+    width: 400px;
+    height: 200px;
+    filter: drop-shadow(2px 2px 2px #000);
+}
+
+.col4_right{
+    width: 100%;
+    text-align: center;
+    margin: 0px;
+}
+
+.col4_inner {
+    width: 32%;
+}
+
+.col4_inner_txt {
+    bottom: 24%;
+}
+
+/*--------------------about styling---------------------------*/
+.about_txt{
+    font-size:15px;
+    margin-top: 0px;
+}
+
+.about_txt h1{
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+
+/*--------------------about styling close---------------------------*/
+
+/*--------------------contact styling---------------------------*/
+
+.contact_side{
+    border:none;
+}
+
+.contact_side h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.form_1 {
+    width: 100%;
+}
+
+.form_1 h3 {
+    text-align: center;
+}
+
+.form2 {
+    width: 100%;
+    text-align: center;
+}
+
+.form2 h3 {
+    text-align: center;
+}
+
+.form_2_side {
+    width: 100%;   
+}
+
+.form2_side{
+    font-size: 15px;
+}
+
+.form_1_side {
+    font-size: 15px;
+    padding: 0px;
+}
+
+/*--------------------contact styling close---------------------------*/
+
+/*--------------------thankyou styling---------------------------*/
+
+.shopping_left {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.shopping_left .cart_button {
+    width: 100%;
+}
+
+.shopping_right {
+    width: 100%;
+}
+
+.shopping_right .col3_box {
+    width: 31%;
+}
+
+.cart_button a {
+    width: 100%;
+    font-size: 12px;
+}
+
+.col3_box_txt h3 { 
+    font-size: 13px;
+}
+
+.col3_box_txt h5 { 
+    font-size: 10px;
+}
+
+.shopping_right .cart_side_box2 h5 {
+    font-size: 17px;
+}
+
+.cart_input form ul li {
+    font-size: 18px;
+}
+
+.shopping_cart ul {
+    margin: 15px 0px;
+    width: 100%;
+    text-align: left;
+}
+
+.shopping_cart ul li a {
+    font-size: 12px;
+}
+
+.shopping_cart ul li::after {
+    width: 11px;
+    height: 6px;
+}
+
+.shopping_end h2 {
+    margin-top: 20px;
+    font-size: 30px
+}
+
+.shopping_left_ul li:nth-child(1) {
+    width: 40%;
+}
+
+.shopping_left_ul ul li a{
+    font-size: 12px;
+}
+
+.shopping_left_ul li:nth-child(3) {
+    width: 20%;
+}
+
+.shopping_main ul li:nth-child(8n-4) {
+    width: 17%;
+}
+
+.product_detail {
+    border: none;
+}
+
+.add_product_to_cart {
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 0px;
+}
+.add_to_cart_main_pic_slide {
+    display: none;
+}
+
+.add_to_cart_main_pic_responsive{
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.cart_btn {
+    width: 220px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.cart_btn2 {
+    margin-bottom: -12px;
+}
+
+.product_detail .ui-widget-header a {
+    padding: 11px 11px !important;
+    font-size: 11px !important;
+}
+
+.product_detail .ui-widget.ui-widget-content {
+    border: none;
+    text-align: center;
+}
+
+
+
+.col9 {
+    border: none;
+}
+
+.col9_left {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.col9_right {
+    width: 100%;
+    text-align: center;
+}
+
+.col9_main .col3_box {
+    width: 43%;
+    margin:0px 8px;
+    margin-bottom: 10px;
+}
+
+
+
+/*--------------------thankyou styling close---------------------------*/
+
+.col5{
+    display: none;
+}
+
+.footer_links ul li {
+    padding: 10px 10px 10px 10px;
+}
+
+.col6_inner_1 {
+    width: 95%;
+}
+
+.col6_inner_1 .whatsapp_contact{
+    text-align: center;
+}
+
+.col6_inner_1 .whatsapp_contact img{
+    text-align: center;
+    float: none;
+}
+
+.col6_inner_2 {
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.col6_inner_1 input {
+    width: 230px;
+}
+
+.footer_bottom {
+    padding: 0px;
+    text-align: center;
+}
+
+.imedia{
+    margin-left: 0%;
+}
+
+.chat_box{
+    display:none;
+}
+
+
+

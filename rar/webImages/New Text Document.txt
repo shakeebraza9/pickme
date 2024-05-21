@@ -1,0 +1,75 @@
+website: dantezuka.com.ar
+ftp: 66.248.237.69
+user: claurkm
+pass: zfoxUNiAdi~+
+folder dantezuka.com.ar
+
+
+
+Things missing pertaining PHP
+
+
+REGISTRAR_USUARIO.HTML
+-------------------------
+
+
+1) when "guardar" button is being clicked
+it must INSERT at the DB Proyecto - Table Usuarios - the 3 fields
+
+Form Nombre y Apellido goes to -> table usuarios field nombre_persona   
+     Usuario -> table usuarios field nombre_usuario
+     Contraseña -> table usuarios field contraseña_usuario
+
+
+
+
+AGREGAR_PROBLEMA.HTML
+-----------------------
+
+
+The form first field Barrio (type drop-down menu) must be loaded with the names
+in the DB table barrios field nombre_barrio in ascending alphabetical order
+
+When the publicar button is clicked
+
+it must INSERT to the DB table problemas 
+
+Form Input1 -> table problemas field barrio_calle
+Form Input2 -> table problemas field problematica_1
+
+table problemas field fecha_hora an UTC-3 timestamp or date-time
+
+
+PopUp with a php.print command a "Datos guardados",
+clean the form, and refresh the same page to be able to continue loading 
+and inserting data into the DB
+
+
+
+BUSQUEDA.HTML
+--------------
+
+Convert the "Busqueda por barrio" input type text into
+the same drop-down menu that is already in place at
+agregar_problema.html , being the list loaded from the DB as well
+
+When an element of the drop-down is chosen then refresh the HTML divs
+to show the data querying the table problemas showing 
+
+FIRST column : (currently not there)  DATE-TIME
+second field : barrio_calle
+third        : problematica1 (in the form of a text-box, fieldtype "mediumtext")
+
+
+
+ON ALL HTML files
+-----------------
+
+1) If possible, at the right-upper corner, where the word "nickname" is being displayed
+we would like to display the content of the field nombre_persona from the table usuarios
+for the person who did the login
+
+2) Add the "Salir" button with log-out functionality and reload the index.html file
+
+(same as you did in sistemaff.com.ar under the "Claudio" fixed text:
+it displays the name but when you click at it, the logout option appears)

@@ -1,0 +1,92 @@
+{"dir" : "ltr",
+    "lang" : "en",
+    "name" : "Sharkspeed CH",
+    "scope" : "/",
+    "display" : "fullscreen",
+    "start_url" : "https://sharkspeed.ch/",
+    "short_name" : "Daresni",
+    "theme_color" : "#fff",
+    "description" : "Sharkspeed",
+    "orientation" : "portrait",
+    "background_color" : "#fff",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "50x50"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "44x44"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "1240x600"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "300x300"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "150x150"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "88x88"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "24x24"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "620x300"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "36x36"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "120x120"
+        },
+        {
+            "src": "https://sharkspeed.ch/webImages/logo.png",
+            "sizes": "76x76"
+        }
+    ]}

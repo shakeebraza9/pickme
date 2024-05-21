@@ -1,0 +1,430 @@
+[08-Feb-2018 08:55:03 Europe/Stockholm] PHP Fatal error:  Call to undefined method dbFunction::updateViewRecommmend() in /home/sharkspcom/public_html/_models/functions/webProduct_functions.php on line 9789
+[08-Feb-2018 08:55:04 Europe/Stockholm] PHP Fatal error:  Call to undefined method dbFunction::updateViewRecommmend() in /home/sharkspcom/public_html/_models/functions/webProduct_functions.php on line 9789
+[08-Feb-2018 13:27:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sharkspcom/public_html/cron/cron.php:2) in /home/sharkspcom/public_html/global.php on line 15
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 72
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 593
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 593
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[12-Jul-2018 11:15:02 Europe/Stockholm] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'sharkspe_new2'@'localhost' (using password: YES)' in /home/sharkspcom/public_html/_models/functions/odbController.php:25
+Stack trace:
+#0 /home/sharkspcom/public_html/_models/functions/odbController.php(25): PDO->__construct('mysql:host=loca...', 'sharkspe_new2', 'h,+_yb4Kj)*;')
+#1 /home/sharkspcom/public_html/_models/functions/odbController.php(13): ODBController->connectDB()
+#2 /home/sharkspcom/public_html/global.php(56): ODBController->__construct()
+#3 /home/sharkspcom/public_html/cron/cron.php(75): include_once('/home/sharkspco...')
+#4 {main}
+  thrown in /home/sharkspcom/public_html/_models/functions/odbController.php on line 25
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 72
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 593
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 593
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1502
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/functions.as.php on line 425
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/functions.as.php on line 425
+[08-Aug-2018 13:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/functions.as.php on line 425
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:41:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:42:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:43:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:44:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:45:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:46:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:47:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:48:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:49:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:50:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:51:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:52:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:53:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:54:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:55:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:56:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:57:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:58:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 14:59:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:00:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:01:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:02:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:03:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:04:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:04:02 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:04:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:05:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:06:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:07:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:08:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:09:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:09:02 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:10:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:11:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:12:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:13:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:14:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:15:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/myAdmin/functions/check_license.php(1) : eval()'d code on line 2
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 8
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/functions/web_functions.php on line 600
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_HOST in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: REQUEST_URI in /home/sharkspcom/public_html/_models/traits/common_functions.php on line 1612
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: REMOTE_ADDR in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9
+[30-Aug-2019 15:16:01 Europe/Stockholm] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/sharkspcom/public_html/_models/traits/session_security.php on line 9

@@ -1,0 +1,110 @@
+[20-Aug-2015 14:09:07 Europe/Stockholm] PHP Notice:  Undefined index: Danish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 728
+[20-Aug-2015 14:09:07 Europe/Stockholm] PHP Notice:  Undefined index: Danish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 753
+[20-Aug-2015 14:09:07 Europe/Stockholm] PHP Notice:  Undefined index: Finnish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 728
+[20-Aug-2015 14:09:07 Europe/Stockholm] PHP Notice:  Undefined index: Finnish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 753
+[21-Aug-2015 10:15:11 Europe/Stockholm] PHP Notice:  Undefined index: Danish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 728
+[21-Aug-2015 10:15:11 Europe/Stockholm] PHP Notice:  Undefined index: Danish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 753
+[21-Aug-2015 10:15:11 Europe/Stockholm] PHP Notice:  Undefined index: Finnish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 728
+[21-Aug-2015 10:15:11 Europe/Stockholm] PHP Notice:  Undefined index: Finnish in /home/sharkspnet/public_html/myAdmin/pages/classes/pages.class.php on line 753
+[18-Jan-2016 14:37:12 Europe/Stockholm] PHP Notice:  Undefined index: Danish in /home/sharkspcom/public_html/myAdmin/pages/classes/pages.class.php on line 728
+[18-Jan-2016 14:37:12 Europe/Stockholm] PHP Notice:  Undefined index: Danish in /home/sharkspcom/public_html/myAdmin/pages/classes/pages.class.php on line 753
+[18-Jan-2016 14:37:12 Europe/Stockholm] PHP Notice:  Undefined index: Finnish in /home/sharkspcom/public_html/myAdmin/pages/classes/pages.class.php on line 728
+[18-Jan-2016 14:37:12 Europe/Stockholm] PHP Notice:  Undefined index: Finnish in /home/sharkspcom/public_html/myAdmin/pages/classes/pages.class.php on line 753
+[05-Jul-2019 12:22:50 Europe/Stockholm] PHP Notice:  Undefined variable: hrefssss in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics.class.php on line 129
+[05-Jul-2019 12:22:50 Europe/Stockholm] PHP Notice:  Undefined variable: hrefssss in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics.class.php on line 129
+[05-Jul-2019 12:22:50 Europe/Stockholm] PHP Notice:  Undefined variable: hrefssss in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics.class.php on line 129
+[05-Jul-2019 12:22:50 Europe/Stockholm] PHP Notice:  Undefined variable: hrefssss in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics.class.php on line 129
+[05-Jul-2019 12:22:50 Europe/Stockholm] PHP Notice:  Undefined variable: hrefssss in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics.class.php on line 129
+[05-Jul-2019 12:47:16 Europe/Stockholm] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php:53
+Stack trace:
+#0 /home/sharkspcom/public_html/new/myAdmin/product_stats/index.php(14): include()
+#1 {main}
+  thrown in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php on line 53
+[05-Jul-2019 12:47:19 Europe/Stockholm] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php:53
+Stack trace:
+#0 /home/sharkspcom/public_html/new/myAdmin/product_stats/index.php(14): include()
+#1 {main}
+  thrown in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php on line 53
+[05-Jul-2019 12:47:20 Europe/Stockholm] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php:53
+Stack trace:
+#0 /home/sharkspcom/public_html/new/myAdmin/product_stats/index.php(14): include()
+#1 {main}
+  thrown in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php on line 53
+[05-Jul-2019 12:47:52 Europe/Stockholm] PHP Notice:  Undefined index: Generate Statistics in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php on line 61
+[05-Jul-2019 12:47:53 Europe/Stockholm] PHP Notice:  Undefined index: Generate Statistics in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php on line 61
+[05-Jul-2019 12:48:48 Europe/Stockholm] PHP Notice:  Undefined index: Generate Statistics in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics.php on line 61
+[05-Jul-2019 11:07:57 UTC] PHP Fatal error:  Uncaught Error: Class 'proStatics' not found in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics_ajax.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sharkspcom/public_html/new/myAdmin/product_stats/pro_statics_ajax.php on line 13
+[05-Jul-2019 13:19:59 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:19:59 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:19:59 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:19:59 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:08 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:08 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:08 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:08 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:29 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:34 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Warning:  Use of undefined constant min - assumed 'min' (this will throw an Error in a future version of PHP) in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:20:38 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 127
+[05-Jul-2019 13:21:13 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:13 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:13 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:13 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:16 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:16 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:16 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:16 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:19 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:19 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:19 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:19 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 122
+[05-Jul-2019 13:21:56 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:21:57 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:21:57 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:21:57 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:21:57 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:04 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:05 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:05 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:05 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:05 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:40 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:40 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:40 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:40 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:40 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:51 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:51 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:51 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:51 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[05-Jul-2019 13:22:52 Europe/Stockholm] PHP Notice:  Undefined index: min in /home/sharkspcom/public_html/new/myAdmin/product_stats/classes/proStatics_ajax.class.php on line 70
+[02-Aug-2021 07:24:40 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:24:42 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:25:08 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:25:09 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:25:10 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:25:12 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
+[02-Aug-2021 07:25:13 UTC] PHP Warning:  Module 'sodium' already loaded in Unknown on line 0
